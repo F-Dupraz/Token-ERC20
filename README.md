@@ -1,6 +1,4 @@
-## Clase: Implementemos un token usando los contratos de Open Zeppelin
-
-### ¿Cómo correr este código?
+# ¿Cómo correr este código?
 
 1. Clona o descarga el repositorio.
 2. Corre el comando `npm install`.
