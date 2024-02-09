@@ -1,0 +1,35 @@
+{
+  "name": "creation-token-erc20",
+  "version": "1.0.0",
+  "description": "I am going to create a ERC20 token for dummies. It is not that hard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-Dupraz/Token-ERC20.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "blockchain",
+    "erc20",
+    "love"
+  ],
+  "author": "Fabricio Angel Dupraz <duprazfabricio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F-Dupraz/Token-ERC20/issues"
+  },
+  "homepage": "https://github.com/F-Dupraz/Token-ERC20#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "chai": "^4.3.4",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.8.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1"
+  }
+}
